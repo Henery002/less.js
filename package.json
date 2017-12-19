@@ -68,7 +68,8 @@
     "phantomjs-prebuilt": "^2.1.7",
     "phin": "^2.2.3",
     "promise": "^7.1.1",
-    "time-grunt": "^1.3.0"
+    "time-grunt": "^1.3.0",
+    "redux": "^1.0.0"
   },
   "keywords": [
     "compile less",
